@@ -1,6 +1,7 @@
 # Flappy-Bird-AI
 Simple flappy bird game. Used neural network and genetic algorithm.
 
+If you want to make game harder just edit the code whatever if you want. For example you can play around 'Constants' or 'Pipe'.
 ### Libraries
 
 - [Proccessing](https://github.com/processing/processing/releases) 

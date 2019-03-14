@@ -1,5 +1,5 @@
 # Flappy-Bird-AI
-Hey guys i tried to make a basic flappy bird game. Then i use neural network and genetic algorithm. Design is not pretty good but result is good i think :)
+Simple flappy bird game. Used neural network and genetic algorithm.
 
 ### Libraries
 
